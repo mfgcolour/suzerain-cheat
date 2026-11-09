@@ -1,2 +1,2 @@
 # suzerain-cheat
-A python script helper for save editing
+A python helper script for save editing
